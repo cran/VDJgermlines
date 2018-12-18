@@ -1,0 +1,11 @@
+3de6e76fb535ffbc8bd3eb83147fee7e *DESCRIPTION
+fc1ab6c98ec46096979562086dd86463 *NAMESPACE
+f590b64adca8a16e9d271a0344464000 *R/VDJheatmap.R
+857bbb093a2b514268995eb6f4caf618 *R/VDJphylo.R
+e56b1581cd36a48408acbda8ab951a4c *R/data.R
+9e26b666758020e371dd5ea3f38f0039 *R/extractSequencesR.R
+dd8347a7e555108a37aa23d0f177e70c *data/VDJgermlines.RData
+6a8d1f93ba94f9efb40c95437d6dad90 *man/VDJgermlines.Rd
+5ba446771b251d3a082b997f09d43fb9 *man/VDJheatmap.Rd
+e8fd14ec685cc8b8d966dad065e75168 *man/VDJphylo.Rd
+b62fbe3663b64a5b22d48b944af8cd9f *man/extractSequencesR.Rd
